@@ -1,7 +1,7 @@
 # awesome-Industry-anomaly-detection-Reproduction
 
 # UniADet (Paper Reproduction Version)
-This repository reproduces **UniADet** from the paper **“One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection”**: it learns only a small number of **decoupled weights** while keeping the vision foundation model frozen, simultaneously performing **image-level anomaly classification** and **pixel-level anomaly segmentation**, and supports few-shot inference with only a few normal samples.
+This repository reproduces **UniADet** from the paper **“One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection”**: it learns only a small number of **decoupled weights** while keeping the vision foundation model frozen, simultaneously performing **image-level anomaly classification** and **pixel-level anomaly segmentation**, and supports few-shot inference with only a few normal samples. Official PyTorch Implementation of UniADet: https://github.com/gaobb/UniADet
 
 ## Core Ideas (Corresponding to Paper Sec.3)
 
